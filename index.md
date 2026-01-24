@@ -92,7 +92,13 @@ Any changes will be reflected on this page with an updated effective date.
 
 If you have any questions or requests regarding this Privacy Policy, please contact us at:
 
-**Email:** flavr.support@gmail.com
+**Email:** claudio.alho@gmail.com
+
+---
+
+## 10. Account Delete
+
+To delete your account and associated data, email us at claudio.alho@gmail.com. We will remove all personal data within 30 days.
 
 ---
 
