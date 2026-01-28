@@ -88,9 +88,9 @@ Any changes will be reflected on this page with an updated effective date.
 
 ---
 
-## 9. Contact Us
+## 9. Contact and Support
 
-If you have any questions or requests regarding this Privacy Policy, please contact us at:
+For any questions, requests, or support regarding Flavr, you can reach us here:
 
 **Email:** claudio.alho@gmail.com
 
@@ -98,7 +98,8 @@ If you have any questions or requests regarding this Privacy Policy, please cont
 
 ## 10. Account Delete
 
-To delete your account and associated data, email us at claudio.alho@gmail.com. We will remove all personal data within 30 days.
+To delete your account and associated data, email us at claudio.alho@gmail.com.
+We will remove all personal data within 30 days.
 
 ---
 
